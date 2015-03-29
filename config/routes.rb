@@ -7,6 +7,7 @@ Fondak::Application.routes.draw do
   # Keep in mind you can assign values other than :controller and :action
 
   match 'photo' => 'home#photo'
+  match 'rules' => 'home#rules'
   match 'discusion' => 'home#discusion'
   match 'history' => 'home#history'
   match 'sponsores' => 'home#sponsores'
@@ -15,6 +16,10 @@ Fondak::Application.routes.draw do
   match 'photo_2014' => 'home#photo_2014'
   match 'photo_2013' => 'home#photo_2013'
   match 'photo_2012' => 'home#photo_2012'
+
+  resources :home do
+    get 'set_locale', :on => :collection
+  end
 
   # Sample of named route:
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase

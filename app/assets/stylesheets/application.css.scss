@@ -43,3 +43,10 @@ img.logo {
 .info {
   font-size: 20px;
 }
+
+a.flag {
+	padding: 10px 0px 0px 0px !important;
+	&:hover {
+		background: black !important;
+	}
+}

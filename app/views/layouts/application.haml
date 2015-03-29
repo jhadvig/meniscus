@@ -16,14 +16,17 @@
 			%nav
 				.line
 					.s-12.l-2
-						= image_tag "logo.png", :class => "logo"
+						= link_to root_path do
+							= image_tag "logo.png", :class => "logo"
 					.top-nav.s-12.l-10.right
 						%p.nav-text Custom menu text
 						%ul.right
 							%li
-								= link_to "Úvod", root_path
+								= link_to root_path do 
+									= t('main')
 							%li
-								%a Galeria
+								%a 
+									= t('gallery')
 								%ul
 									%li
 										= link_to "Meniscus Cup 2014", photo_2014_path
@@ -32,7 +35,20 @@
 									%li
 										= link_to "Meniscus Cup 2012", photo_2012_path
 							%li
-								= link_to "Sponzori", sponsores_path
+								= link_to rules_path do
+									= t('rules')
 							%li
-								= link_to "Kontakt", contact_path
+								= link_to sponsores_path do
+									= t('sponsors')
+							%li
+								= link_to contact_path do
+									= t('contact')
+							%li
+								- if @locale == "en" 
+									= link_to set_locale_home_index_path(:locale => :sk), :class => "flag" do
+										= image_tag 'flag-sk.png', :class => "flag"
+								- else
+									= link_to set_locale_home_index_path(:locale => :en), :class => "flag" do
+										= image_tag 'flag-uk.png', :class => "flag"
+
 		= yield
