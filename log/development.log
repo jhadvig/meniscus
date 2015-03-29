@@ -23728,3 +23728,1310 @@ Served asset /5.jpg - 304 Not Modified (1ms)
 
 Started GET "/assets/6.jpg" for 127.0.0.1 at 2015-03-29 14:13:12 +0200
 Served asset /6.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-29 21:27:56 +0200
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.haml within layouts/application (6.3ms)
+Completed 200 OK in 65ms (Views: 64.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:56 +0200
+Served asset /application.css - 304 Not Modified (12ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /font-awesome.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /components.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /owl.carousel.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /responsee.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /owl.theme.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /template-style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /modernizr.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /responsee.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /application.js - 304 Not Modified (50ms)
+
+
+Started GET "/assets/1.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /1.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /logo.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /2.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/4.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /4.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/3.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /3.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/5.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /5.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/6.jpg" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /6.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/Comfortaa-Regular.ttf" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /Comfortaa-Regular.ttf - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /facebook.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/favicon.png" for 127.0.0.1 at 2015-03-29 21:27:57 +0200
+Served asset /favicon.png - 200 OK (3ms)
+
+
+Started GET "/photo_2013" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Processing by HomeController#photo_2013 as HTML
+  Rendered home/photo_2013.haml within layouts/application (3.9ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /owl.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /responsee.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/1_s.jpg" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /2013/1_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/2_s.jpg" for 127.0.0.1 at 2015-03-29 21:27:59 +0200
+Served asset /2013/2_s.jpg - 200 OK (24ms)
+
+
+Started GET "/assets/2013/3_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/3_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/6_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/6_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/4_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/4_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/5_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/5_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2013/7_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/7_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2013/8_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/8_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/23_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/23_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/13_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/13_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/27_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/27_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2013/35_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/35_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/31_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/31_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/12_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/12_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/33_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/33_s.jpg - 200 OK (34ms)
+
+
+Started GET "/assets/2013/36_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/36_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/32_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/32_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/28_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/28_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/22_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/22_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/9_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/9_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/30_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/30_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2013/16_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/16_s.jpg - 200 OK (6ms)
+
+
+Started GET "/assets/2013/19_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/19_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2013/14_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/14_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/17_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/17_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2013/26_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/26_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/24_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/24_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/10_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/10_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/20_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/20_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/11_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/11_s.jpg - 200 OK (29ms)
+
+
+Started GET "/assets/2013/15_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/15_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/34_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/34_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/18_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/18_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/21_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/21_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/29_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/29_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2013/25_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:00 +0200
+Served asset /2013/25_s.jpg - 200 OK (5ms)
+
+
+Started GET "/photo_2014" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Processing by HomeController#photo_2014 as HTML
+  Rendered home/photo_2014.haml within layouts/application (3.3ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /owl.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /responsee.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2014/1_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/1_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/3_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/3_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/2_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/2_s.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/2014/5_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/5_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/4_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/4_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/6_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/6_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/8_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/8_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/7_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/7_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/32_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/32_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/22_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/22_s.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/2014/11_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/11_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/12_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/12_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/19_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/19_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/9_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/9_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/28_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/28_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/27_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/27_s.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/2014/15_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/15_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/18_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/18_s.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/2014/21_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/21_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/31_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/31_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/13_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/13_s.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/2014/16_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/16_s.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/2014/25_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/25_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/10_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/10_s.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/2014/14_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/14_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/26_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/26_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/24_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/24_s.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/2014/23_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/23_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/20_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/20_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/17_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/17_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2014/29_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/29_s.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/2014/30_s.jpg" for 127.0.0.1 at 2015-03-29 21:28:07 +0200
+Served asset /2014/30_s.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/photo_2013" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Processing by HomeController#photo_2013 as HTML
+  Rendered home/photo_2013.haml within layouts/application (3.2ms)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /responsee.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /owl.theme.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/1_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/1_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/2_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/2_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/3_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/3_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/4_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/4_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/5_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/5_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/6_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/6_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/7_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/7_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/8_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/8_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/9_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/9_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/10_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/10_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/11_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/11_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/12_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/12_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/13_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/13_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/14_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/14_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/15_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/15_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/16_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/16_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/17_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/17_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/18_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/18_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/19_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/19_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/20_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/20_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/22_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/22_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/21_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/21_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/32_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/32_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/33_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/33_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/23_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/23_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/28_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/28_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/36_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/36_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/24_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/24_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/26_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/26_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/31_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/31_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/34_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/34_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/35_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/35_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/27_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/27_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/25_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/25_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/30_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/30_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2013/29_s.jpg" for 127.0.0.1 at 2015-03-29 21:38:55 +0200
+Served asset /2013/29_s.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fancybox_overlay.png" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /fancybox_overlay.png - 200 OK (1ms)
+
+
+Started GET "/assets/2013/18.jpg" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /2013/18.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/fancybox_loading.gif" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /fancybox_loading.gif - 200 OK (1ms)
+
+
+Started GET "/assets/fancybox_sprite.png" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /fancybox_sprite.png - 200 OK (2ms)
+
+
+Started GET "/assets/2013/19.jpg" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /2013/19.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/20.jpg" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /2013/20.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2013/21.jpg" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /2013/21.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/blank.gif" for 127.0.0.1 at 2015-03-29 21:38:57 +0200
+Served asset /blank.gif - 200 OK (1ms)
+
+
+Started GET "/assets/2013/13.jpg" for 127.0.0.1 at 2015-03-29 21:39:00 +0200
+Served asset /2013/13.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/14.jpg" for 127.0.0.1 at 2015-03-29 21:39:00 +0200
+Served asset /2013/14.jpg - 200 OK (31ms)
+
+
+Started GET "/assets/2013/15.jpg" for 127.0.0.1 at 2015-03-29 21:39:00 +0200
+Served asset /2013/15.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2013/16.jpg" for 127.0.0.1 at 2015-03-29 21:39:00 +0200
+Served asset /2013/16.jpg - 200 OK (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.haml within layouts/application (0.7ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /owl.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /responsee.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (27ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/1.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /1.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/2.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /2.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/3.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /3.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/4.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /4.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/5.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /5.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/6.jpg" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /6.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2015-03-29 21:50:21 +0200
+Served asset /facebook.png - 304 Not Modified (0ms)
+
+
+Started GET "/photo_2012" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Processing by HomeController#photo_2012 as HTML
+  Rendered home/photo_2012.haml within layouts/application (4.8ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /owl.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /responsee.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/2012/1_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/1_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2012/6_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/6_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2012/3_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/3_s.jpg - 200 OK (32ms)
+
+
+Started GET "/assets/2012/2_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/2_s.jpg - 200 OK (6ms)
+
+
+Started GET "/assets/2012/4_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/4_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/7_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/7_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/5_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/5_s.jpg - 200 OK (7ms)
+
+
+Started GET "/assets/2012/21_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/21_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/12_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/12_s.jpg - 200 OK (7ms)
+
+
+Started GET "/assets/2012/28_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/28_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/20_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/20_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/15_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/15_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2012/14_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/14_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/19_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/19_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/17_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/17_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2012/25_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/25_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2012/26_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/26_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/8_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/8_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/10_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/10_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/9_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/9_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/24_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/24_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/16_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/16_s.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/2012/13_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/13_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/11_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/11_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/18_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/18_s.jpg - 200 OK (7ms)
+
+
+Started GET "/assets/2012/23_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/23_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/27_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/27_s.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/2012/29_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/29_s.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/2012/30_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/30_s.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/2012/22_s.jpg" for 127.0.0.1 at 2015-03-29 21:50:24 +0200
+Served asset /2012/22_s.jpg - 200 OK (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-buttons.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.fancybox-buttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox-thumbs.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.fancybox-thumbs.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/components.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /components.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.fancybox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /owl.carousel.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.theme.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /owl.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /responsee.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template-style.css?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /template-style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.8.3.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery-1.8.3.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery-ui.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.countdown.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.countdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fancybox.pack.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /jquery.fancybox.pack.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/responsee.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /responsee.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/owl.carousel.min.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /owl.carousel.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/1.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /1.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/2.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /2.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/3.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /3.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/4.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /4.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/5.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /5.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/6.jpg" for 127.0.0.1 at 2015-03-29 21:51:40 +0200
+Served asset /6.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2015-03-29 21:51:41 +0200
+Served asset /facebook.png - 304 Not Modified (0ms)

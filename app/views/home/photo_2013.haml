@@ -1,12 +1,10 @@
 #third-block.font-comforta
 	.line
-		%h2 Galléria 2013
-		.margin
-			.s-12.l-3
-				= image_tag "img/330x190.jpg"
-			.s-12.l-3
-				= image_tag "img/330x190-2.jpg"
-			.s-12.l-3
-				= image_tag "img/330x190-3.jpg"
-			.s-12.l-3
-				= image_tag "img/330x190.jpg"
+		%h2 Galéria 2013
+		- (1..9).each do |i|
+			.margin
+				- (1..4).each do |ii|
+					.s-12.l-3
+						%a.fancybox{:href => "assets/2013/#{ii+((i-1)*4)}.jpg", :rel => "group"}
+							%center
+								= image_tag "2013/#{ii+((i-1)*4)}_s.jpg"

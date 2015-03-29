@@ -1,12 +1,32 @@
 #third-block.font-comforta
 	.line
-		%h2 Galléria 2012
+		%h2 Galéria 2012
+		- (1..7).each do |i|
+			.margin
+				- (1..4).each do |ii|
+					.s-12.l-3
+						%a.fancybox{:href => "assets/2012/#{ii+((i-1)*4)}.jpg", :rel => "group"}
+							%center
+								= image_tag "2012/#{ii+((i-1)*4)}_s.jpg"
 		.margin
 			.s-12.l-3
-				= image_tag "img/330x190.jpg"
+				%a.fancybox{:href => "assets/2012/29.jpg", :rel => "group"}
+					%center
+						= image_tag "2012/29_s.jpg"
 			.s-12.l-3
-				= image_tag "img/330x190-2.jpg"
-			.s-12.l-3
-				= image_tag "img/330x190-3.jpg"
-			.s-12.l-3
-				= image_tag "img/330x190.jpg"
+				%a.fancybox{:href => "assets/2012/30.jpg", :rel => "group"}
+					%center
+						= image_tag "2012/30_s.jpg"
+
+/ #third-block.font-comforta
+/ 	.line
+/ 		%h2 Galléria 2012
+/ 		.margin
+/ 			.s-12.l-3
+/ 				= image_tag "img/330x190.jpg"
+/ 			.s-12.l-3
+/ 				= image_tag "img/330x190-2.jpg"
+/ 			.s-12.l-3
+/ 				= image_tag "img/330x190-3.jpg"
+/ 			.s-12.l-3
+/ 				= image_tag "img/330x190.jpg"
