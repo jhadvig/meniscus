@@ -1,0 +1,119 @@
+.container.photo
+	.row
+		.col-xs-18.col-sm-12
+			.col-xs-12.col-sm-8.col-xs-offset-4.col-sm-offset-2
+				%ul.nav.nav-tabs#myTab
+					%li.active
+						%a{"data-toggle" => "tab", :href => "#2013"} 2013
+					%li
+						%a{"data-toggle" => "tab", :href => "#2012"} 2012
+					%li
+						%a{"data-toggle" => "tab", :href => "#2011"} 2011
+					%li
+						%a{"data-toggle" => "tab", :href => "#2010"} 2010
+					%li
+						%a{"data-toggle" => "tab", :href => "#2009"} 2009
+
+			.tab-content
+				#2013.tab-pane.active
+					.col-xs-4.col-sm-3.first
+						- [6,10,14,18,22,26,30].each do |i|
+							%a.fancybox{:href => "assets/2013/0-#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2013/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [7,11,15,23,27,31,35].each do |i|
+							%a.fancybox{:href => "assets/2013/0-#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2013/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [8,12,16,20,24,28,32].each do |i|
+							%a.fancybox{:href => "assets/2013/0-#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2013/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3.last
+						- [9,13,17,21,25,29,33].each do |i|
+							%a.fancybox{:href => "assets/2013/0-#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2013/00-#{i}.jpg"}
+
+				#2012.tab-pane
+					.col-xs-4.col-sm-3.first
+						- [6,10,14,18,22,26,30,38,42,46].each do |i|
+							%a.fancybox{:href => "assets/2012/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2012/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [7,11,15,23,27,31,35,39,43,47].each do |i|
+							%a.fancybox{:href => "assets/2012/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2012/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [8,12,16,20,24,28,32,36,40,44].each do |i|
+							%a.fancybox{:href => "assets/2012/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2012/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3.last
+						- [9,13,17,21,25,29,33,37,41,45].each do |i|
+							%a.fancybox{:href => "assets/2012/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2012/00-#{i}.jpg"}
+
+				#2011.tab-pane
+
+				#2010.tab-pane
+					.col-xs-4.col-sm-3.first
+						- [1,5,9,13,17,21,25,29,33,37,41,45].each do |i|
+							%a.fancybox{:href => "assets/2010/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2010/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [2,6,10,14,18,22,26,30,38,42,46].each do |i|
+							%a.fancybox{:href => "assets/2010/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2010/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [3,7,11,15,23,27,31,35,39,43,47].each do |i|
+							%a.fancybox{:href => "assets/2010/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2010/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3.last
+						- [4,8,12,16,20,24,28,32,36,40,44].each do |i|
+							%a.fancybox{:href => "assets/2010/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2010/00-#{i}.jpg"}
+
+				#2009.tab-pane
+					.col-xs-4.col-sm-3.first
+						- [1,5,9,13,17,21,25,29,33,37].each do |i|
+							%a.fancybox{:href => "assets/2009/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2009/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [2,6,10,14,18,22,26,30,38,42].each do |i|
+							%a.fancybox{:href => "assets/2009/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2009/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3
+						- [3,7,11,15,23,27,31,35,39,41].each do |i|
+							%a.fancybox{:href => "assets/2009/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2009/00-#{i}.jpg"}
+
+					.col-xs-4.col-sm-3.last
+						- [4,8,12,16,20,24,28,32,36,40].each do |i|
+							%a.fancybox{:href => "assets/2009/#{i}.jpg", :rel => "group"}
+								%center
+									%img{:alt => "", :src => "assets/2009/00-#{i}.jpg"}
+

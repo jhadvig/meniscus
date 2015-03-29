@@ -1,0 +1,11 @@
+#third-block.font-comforta
+	.line
+		%h2 Galéria 2014
+		- (1..8).each do |i|
+			.margin
+				- (1..4).each do |ii|
+					.s-12.l-3
+						%a.fancybox{:href => "assets/2014/#{ii+((i-1)*4)}.jpg", :rel => "group"}
+							%center
+								= image_tag "2014/#{ii+((i-1)*4)}_s.jpg"
+			

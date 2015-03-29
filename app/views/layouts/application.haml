@@ -1,0 +1,38 @@
+!!!
+%html
+	%head
+		%meta{:content => "width=device-width; initial-scale=1.0", :name => "viewport"}
+		%meta(http-equiv="Content-Type" content="text/html; charset=UTF-8")
+		%title Meniscus Cup
+		= favicon_link_tag 'favicon.png'
+		= stylesheet_link_tag    "application"
+		= javascript_include_tag "application"
+		= csrf_meta_tags
+
+
+	%body.size-1140
+		/ TOP NAV WITH LOGO
+		%header
+			%nav
+				.line
+					.s-12.l-2
+						= image_tag "logo.png", :class => "logo"
+					.top-nav.s-12.l-10.right
+						%p.nav-text Custom menu text
+						%ul.right
+							%li
+								= link_to "Úvod", root_path
+							%li
+								%a Galeria
+								%ul
+									%li
+										= link_to "Meniscus Cup 2014", photo_2014_path
+									%li
+										= link_to "Meniscus Cup 2013", photo_2013_path
+									%li
+										= link_to "Meniscus Cup 2012", photo_2012_path
+							%li
+								= link_to "Sponzori", sponsores_path
+							%li
+								= link_to "Kontakt", contact_path
+		= yield
