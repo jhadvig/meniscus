@@ -10,7 +10,9 @@ Fondak::Application.routes.draw do
   match 'rules' => 'home#rules'
   match 'discusion' => 'home#discusion'
   match 'history' => 'home#history'
-  match 'sponsores' => 'home#sponsores'
+  match 'teams_men' => 'home#teams_men'
+  match 'teams_women' => 'home#teams_women'
+  match 'schedule' => 'home#schedule'
   match 'contact' => 'home#contact'
 
   match 'photo_2014' => 'home#photo_2014'

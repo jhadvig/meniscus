@@ -4,7 +4,7 @@
 en:
   title1: "Dear friends of sport and entertainment"
   title2: "We are really happy to invite you to Meniscus Cup 2015, 7th year of medicine students footbal tournament). There is going to be ladies' and men's tournament also this year and final games will be played as a part of the event Letny strom 2015 on Tuesday 28th of April!! Don't wait any second and sign up your team as soon as you can! Deadline for signing in is the 15th of April."
-  title3: "If you want to sign in you can do it via email meniscusjlf@gmail.com, personaly at the Big Hostel room number 608 or you can write me a message on facebook and I will sign you in. Registration fee is 25 euro."
+  title3: "If you want to sign in you can do it via email meniscusjlf@gmail.com, personaly at the Big Hostel room number 608 or you can write a message on facebook and we will sign you in. Registration fee is 25 euro."
   countdown: "Hello world"
   main: "Main"
   rules: "Rules"
@@ -28,3 +28,8 @@ en:
   gallery: "Gallery"
   sponsors: "Sponsors"
   contact: "Contact"
+  room: "Room:"
+  teams: "Teams"
+  teams_men: "Teams Men"
+  teams_women: "Teams Women"
+  schedule: "Schedule"

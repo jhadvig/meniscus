@@ -1,7 +1,7 @@
 sk:
   title1: "Milí priatelia športu a zábavy"
   title2: "Srdečne Vás pozývame na Meniscus CUP 2015, už 7. ročník medického futbalového turnaja Jesseniovej lekárskej fakulty! Podobne ako minulý rok, aj tento bude Meniscus Cup rozdelený na ženskú a mužskú časť turnaja a finálové zápasy sa odohrajú 28. apríla ako súčasť akcie Letný strom 2015!! Tak neváhajte ani sekundu a prihláste svoj tím!!"
-  title3: "Bližšie informácie o turnaji zverejníme v najbližších dňoch na pripravovanej novej web-stránke Meniscus Cup-u. Prihlasovať sa tímy môžu do stredy 15. apríla. Prihlásiť sa môžete prostredníctvom e-mailu meniscusjlf@gmail.com, osobne na izbe č.608, alebo mi napíšte správu na FB a prihlásim vás ja. Štartovné je 25 eur za tím"
+  title3: "Bližšie informácie o turnaji zverejníme v najbližších dňoch na pripravovanej novej web-stránke Meniscus Cup-u. Prihlasovať sa tímy môžu do stredy 15. apríla. Prihlásiť sa môžete prostredníctvom e-mailu meniscusjlf@gmail.com, osobne na izbe č.608, alebo na FB. Štartovné je 25 eur za tím"
   countdown: "Začíname za:"
   main: "Úvod"
   gallery: "Galéria"
@@ -25,3 +25,8 @@ sk:
   rules34: "Los"
   sponsors: "Sponzori"
   contact: "Kontakt"
+  room: "Izba:"
+  teams: "Tímy"
+  teams_men: "Tímy Muži"
+  teams_women: "Tímy Ženy"
+  schedule: "Rozpis"

@@ -26,9 +26,34 @@ background:#e5e5e5;
 	padding:3.5em 0;
 	background:#fff;
 }
+
 #rules3-block{
 	padding:3.5em 0;
 	background:#e5e5e5;
+}
+#contact1-block{
+	padding:3.5em 0;
+	background:#e5e5e5;
+}
+#contact2-block{
+	padding:3.5em 0;
+	background:#fff;
+}
+#teams1-block{
+	padding:3.5em 0;
+	background:#e5e5e5;
+}
+#teams2-block{
+	padding:3.5em 0;
+	background:#fff;
+}
+#schedule1-block{
+	padding:3.5em 0;
+	background:#e5e5e5;
+}
+#schedule2-block{
+	padding:3.5em 0;
+	background:#fff;
 }
 footer {
 background:#fff;

@@ -1,0 +1,18 @@
+# encoding: utf-8
+
+- @teams.each do |team|
+	#teams2-block
+		.line
+			.margin-bottom
+				.margin
+					%article.s-12.l-8.center.font-comforta
+						%table
+							%thead
+								%tr
+									%th 
+										= team[0]
+							%tbody
+								- team[1..-1].each do |player|
+									%tr
+										%td 
+											= player

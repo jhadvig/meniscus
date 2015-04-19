@@ -25,6 +25,19 @@
 								= link_to root_path do 
 									= t('main')
 							%li
+								= link_to schedule_path do 
+									= t('schedule')
+							%li.teams
+								%a
+									= t('teams')
+								%ul
+									%li
+										= link_to teams_men_path do
+											= t('teams_men')
+									%li
+										= link_to teams_women_path do
+											= t('teams_women')
+							%li
 								%a 
 									= t('gallery')
 								%ul
@@ -37,9 +50,6 @@
 							%li
 								= link_to rules_path do
 									= t('rules')
-							%li
-								= link_to sponsores_path do
-									= t('sponsors')
 							%li
 								= link_to contact_path do
 									= t('contact')

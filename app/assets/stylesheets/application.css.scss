@@ -23,6 +23,10 @@
   font-family: comforta !important;
 }
 
+body {
+  background: white !important;
+}
+
 .main_photo {
 
 }
@@ -49,4 +53,13 @@ a.flag {
 	&:hover {
 		background: black !important;
 	}
+}
+
+.about {
+  padding-top: 40px;
+  padding-left:20px;
+}
+
+.teams span.count-number {
+  display: none;
 }

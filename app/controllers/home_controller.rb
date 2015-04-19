@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class HomeController < ApplicationController
 
   def index
@@ -20,8 +22,46 @@ class HomeController < ApplicationController
 
   end
 
-  def sponsores
+  def schedule
 
+  end
+
+  def teams_men
+    @teams=[]
+    team=[]
+
+    File.open("data/teams_men_2015.data", "r") do |file|
+      file.each_line do |line|
+        if line == "-\n"
+          @teams << team
+          team.each do |p|
+          end
+          team = []
+        else
+          team << line.force_encoding("UTF-8").gsub('\n','')
+        end
+      end
+
+    end
+  end
+
+  def teams_women
+    @teams=[]
+    team=[]
+
+    File.open("data/teams_women_2015.data", "r") do |file|
+      file.each_line do |line|
+        
+        if line == "-\n"
+          @teams << team
+          team.each do |p|
+          end
+          team = []
+        else
+          team << line.force_encoding("UTF-8").gsub('\n','')
+        end
+      end
+    end
   end
 
   def contact
