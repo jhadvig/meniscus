@@ -25,8 +25,22 @@
 								= link_to root_path do 
 									= t('main')
 							%li
-								= link_to schedule_path do 
+								%a 
 									= t('schedule')
+								%ul
+									%li
+										= link_to schedule_friday_path do
+											= t('friday')
+											24.4. 2015
+									%li
+										= link_to schedule_saturday_path do
+											= t('saturday')
+											25.4. 2015
+									%li
+										= link_to schedule_tuesday_path do
+											= t('tuesday')
+											28.4. 2015
+
 							%li.teams
 								%a
 									= t('teams')

@@ -22,7 +22,15 @@ class HomeController < ApplicationController
 
   end
 
-  def schedule
+  def schedule_friday
+
+  end
+
+  def schedule_saturday
+
+  end
+
+  def schedule_tuesday
 
   end
 
